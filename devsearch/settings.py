@@ -123,16 +123,6 @@ WSGI_APPLICATION = 'devsearch.wsgi.application'
 # https://docs.djangoproject.com/en/3.2/ref/settings/#databases
 
 
-#DATABASES = {
-#    'default': {
-#        'ENGINE': 'django.db.backends.postgresql',
-#        'USER': 'harsh',
-#        'PASSWORD': 'HarshKadbe',
-#        'HOST': 'database-1.cgd7fyyz5x4d.us-east-1.rds.amazonaws.com',
-#       'PORT': '5432',
-#    }
-#}
-
 
 
 DATABASES = {
